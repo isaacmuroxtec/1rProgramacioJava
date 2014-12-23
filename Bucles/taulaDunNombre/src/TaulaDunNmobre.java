@@ -19,7 +19,7 @@ public class TaulaDunNmobre {
 		
 			i =  i - 1;
 		}
-
+		lector.close();
 	}
 
 }
