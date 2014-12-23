@@ -18,6 +18,6 @@ public class Divisio {
 		
 		System.out.println("El residu es:"+dividend);
 		System.out.println("El quocient es:"+i);
-		
+		lector.close();
 	}
 }
