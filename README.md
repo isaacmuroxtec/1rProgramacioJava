@@ -10,5 +10,5 @@ Aquest projecte conté els exercicis fets a classe de Primer de Programació. Es
 
 ## Motivation
 
-He creat el projecte per compartir els exercicis fets a classe, i que tant els alumnes, com altres professors puguin accedir-hi. 
+He creat el projecte per compartir els exercicis fets a classe, i que tant els alumnes, com altres professors puguin accedir-hi. Encara em falten alguns exercicis per pujar. 
 
